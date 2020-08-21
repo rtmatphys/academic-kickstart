@@ -26,7 +26,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Condensed Matter Theory
 - Material Science
-- Quantum Computer
 
 education:
   courses:
@@ -73,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral researcher at ISSP, University of Tokyo. After obtaining a PHD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation.
