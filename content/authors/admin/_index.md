@@ -16,8 +16,9 @@ role: Postdoctoral researcher
 organizations:
 - name: Kawashima group
   url: "https://kawashima.issp.u-tokyo.ac.jp/"
-- name: Institute for Solid State Physics, University of Tokyo
+- name: Institute for Solid State Physics
   url: ""
+- name: University of Tokyo
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,13 +30,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Material Science
+  - course: PhD in Condesed Matter Physics
     institution: University of Tokyo
     year: 2017
-  - course: MEng in Material Science
+  - course: MEng in Condesed Matter Physics
     institution: University of Tokyo
     year: 2015
-  - course: BSc in Material Science
+  - course: BSc in Condesed Matter Physics
     institution: University of Tokyo
     year: 2013
 
@@ -47,15 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:okada@issp.u-tokyo.ac.jp".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Ken_N_Okada
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.jp/citations?user=NUr_6HcAAAAJ&hl=ja
-- icon: github
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/Ken_N_Okada
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
