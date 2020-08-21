@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+  
   * Strongly-correlated electron systems
   * Hubbard model
   * Variational Monte Carlo methods
@@ -39,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2019-03-31"
   description = """
+  
   
   * Magnetism in metal
   * Classical Kondo lattice model
