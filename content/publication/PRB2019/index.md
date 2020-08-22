@@ -7,7 +7,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2019-04-29T00:00:00Z"
 doi: "10.1103/PhysRevB.99.134442"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*Physical Review B* 99, 134442"
 publication_short: ""
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We theoretically study magnetoelectric effects in a heterostructure of a generic band insulator and a ferromagnet. In contrast to the kinetic magnetoelectric effect in metals, referred to as the Edelstein effect or the inverse spin galvanic effect, our mechanism relies on virtual interband transitions between the valence and conduction bands and is therefore immune to disorder or impurity scattering. By calculating electric field-induced magnetization by the linear response theory, we reveal that the magnetoelectric effect shows up without specific parameter choices. The magnetoelectric effect qualitatively varies by changing the direction of the magnetic moment in the ferromagnet: the response is diagonal for the out-of-plane moment, whereas it is off-diagonal for the in-plane moment. We also find out that in optical frequencies, the magnetoelectric signal can be drastically enhanced via interband resonant excitations. Finally, we estimate the magnitude of the magnetoelectric effect for a hybrid halide perovskite semiconductor as an example of the band insulator and compare it with other magnetoelectric materials. We underscore that our mechanism is quite general and widely expectable, only requiring the Rashba spin-orbit coupling and exchange coupling. Our result could potentially offer a promising method of Joule heating-free electric manipulation of magnetic moments in spintronic devices.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -74,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
