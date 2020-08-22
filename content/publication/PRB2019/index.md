@@ -1,11 +1,12 @@
 ---
-title: "An example journal article"
+title: "Magnetoelectric effect in band insulator–ferromagnet heterostructures"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Y. Kato
+- Y. Motome
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
