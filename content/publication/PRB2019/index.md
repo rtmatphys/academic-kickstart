@@ -23,7 +23,7 @@ publication_short: "Phys. Rev. B"
 abstract: We theoretically study magnetoelectric effects in a heterostructure of a generic band insulator and a ferromagnet.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 featured: false
@@ -62,12 +62,16 @@ projects: []
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
+-->
 
+<!--
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
+-->
 
 <!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).-->
