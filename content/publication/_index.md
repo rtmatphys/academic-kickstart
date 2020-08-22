@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Magnetoelectric effect in band insulator–ferromagnet heterostructures
 
 # View.
 #   1 = List
