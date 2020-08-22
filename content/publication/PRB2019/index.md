@@ -1,7 +1,7 @@
 ---
 title: "Magnetoelectric effect in band insulator–ferromagnet heterostructures"
 authors:
-- **K. N. Okada**
+- K. N. Okada
 - Y. Kato
 - Y. Motome
 date: "2019-04-29T00:00:00Z"
