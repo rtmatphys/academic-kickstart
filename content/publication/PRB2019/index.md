@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Physical Review B* **99,** 134442 (2019)."
 publication_short: "Phys. Rev. B"
 
-abstract: We theoretically study magnetoelectric effects in a heterostructure of a generic band insulator and a ferromagnet.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -59,7 +59,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!--
