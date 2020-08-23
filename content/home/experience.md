@@ -25,11 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """  
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Strongly-correlated electron systems
+  * Hubbard model
+  * Variational Monte Carlo methods
   """
 
 [[experience]]
@@ -39,12 +37,10 @@ date_format = "Jan 2006"
   location = "Tokyo"
   date_start = "2017-10-01"
   date_end = "2019-03-31"
-  description = """
-  
-  
+  description = """  
   * Magnetism in metal
-  * Classical Kondo lattice model
-  * Monte Carlo methods
+  * Kondo lattice model
+  * Langevin dynamics
   """
 
 +++
