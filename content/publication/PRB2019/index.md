@@ -4,7 +4,7 @@ authors:
 - K. N. Okada
 - Y. Kato
 - Y. Motome
-date: "2019-04-29T00:00:00Z"
+date: ""
 doi: "10.1103/PhysRevB.99.134442"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Physical Review B* **99,** 134442 (2019)."
-publication_short: "Phys. Rev. B"
+publication_short: "*Phys. Rev. B* **99,** 134442 (2019)"
 
 abstract: 
 
