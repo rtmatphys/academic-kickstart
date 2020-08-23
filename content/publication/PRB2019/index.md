@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Physical Review B* **99,** 134442 (2019)."
-publication_short: "*Phys. Rev. B*"
+publication_short: "*Phys. Rev. B* **99,** 134442"
 
 abstract: 
 
