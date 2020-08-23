@@ -25,9 +25,11 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """  
-  * Strongly-correlated electron systems
-  * Hubbard model
-  * Variational Monte Carlo methods
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
