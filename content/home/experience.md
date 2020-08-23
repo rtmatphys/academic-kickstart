@@ -26,7 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Strongly-correlated electron systems
   * Hubbard model
   * Variational Monte Carlo methods
