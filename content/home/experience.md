@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Chiba"
   date_start = "2019-04-01"
   date_end = ""
-  description = """  
+  description = """
+  Responsibilities include:
+  
   * Strongly-correlated electron systems
   * Hubbard model
   * Variational Monte Carlo methods
