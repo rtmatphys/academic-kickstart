@@ -1,5 +1,5 @@
 ---
-title: "Multiple-*Q* magnetic orders in Rashba-Dresselhaus metals"
+title: "Multiple-Q magnetic orders in Rashba-Dresselhaus metals"
 authors:
 - K. N. Okada
 - Y. Kato
