@@ -38,7 +38,8 @@ date_format = "Jan 2006"
   location = "Tokyo"
   date_start = "2017-10-01"
   date_end = "2019-03-31"
-  description = """  
+  description = """
+  Research topics:
   * Magnetism in metal
   * Kondo lattice model
   * Langevin dynamics
