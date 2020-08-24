@@ -17,7 +17,7 @@ publishDate: "2018-12-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Phys. Rev. B* **98,** 224406 (2018)"
+publication: "*Physical Review B* **98,** 224406 (2018)"
 publication_short: "*Phys. Rev. B* **98,** 224406"
 
 abstract: 
