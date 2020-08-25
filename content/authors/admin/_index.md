@@ -21,21 +21,22 @@ organizations:
 - name: University of Tokyo
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Condensed matter theory
 
 interests:
 - Condensed Matter Theory
 - Material Science
+- Quantum Computer
 
 education:
   courses:
-  - course: PhD in Condesed Matter Physics
+  - course: PhD in Condesed Matter Experiment
     institution: University of Tokyo
     year: 2017
-  - course: MEng in Condesed Matter Physics
+  - course: MEng in Condesed Matter Experiment
     institution: University of Tokyo
     year: 2015
-  - course: BSc in Condesed Matter Physics
+  - course: BEng in Condesed Matter Experiment
     institution: University of Tokyo
     year: 2013
 
@@ -72,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at ISSP, University of Tokyo. After obtaining a PHD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation.
+I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PHD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation for condensed matter physics.
