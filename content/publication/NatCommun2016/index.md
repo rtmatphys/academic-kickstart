@@ -68,6 +68,6 @@ projects: []
 slides: ""
 ---
 
-Featured in [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=2816).
+Featured in [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=2816). See also [UTokyo Research](http://www.u-tokyo.ac.jp/ja/utokyo-research/research-news/new-principle-for-highly-efficient-optical-device-verified.html).
 
 
