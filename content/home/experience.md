@@ -59,4 +59,16 @@ date_format = "Jan 2006"
   * Photocurrent measurement
   """
 
+[[experience]]
+  title = "Master's student"
+  company = "Tokura group, Department of Applied Physics, Univ. of Tokyo"
+  company_url = "http://www.cmr.t.u-tokyo.ac.jp/index_e.shtml"
+  location = "Tokyo"
+  date_start = "2013-04-01"
+  date_end = "2015-03-31"
+  description = """
+  Research topics:
+  * Topological insulator
+  * Thin-film growth
+  """
 +++
