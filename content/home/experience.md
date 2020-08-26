@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   company_url = "http://www.cmr.t.u-tokyo.ac.jp/index_e.shtml"
   location = "Tokyo"
   date_start = "2015-04-01"
-  date_end = "2017-09-3"
+  date_end = "2017-09-30"
   description = """
   Research topics:
   * Topological insulator
