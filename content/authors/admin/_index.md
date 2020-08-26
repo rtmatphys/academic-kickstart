@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher
+role: Project researcher
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PHD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation for condensed matter physics.
+I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PHD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation for various problems including condensed matter physics and machine learning.
