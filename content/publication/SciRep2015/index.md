@@ -1,5 +1,5 @@
 ---
-title: "Ferroelectric-like metallic state in electron doped BaTiO<sub>3</sub>"
+title: "Ferroelectric-like metallic state in electron doped BaTiO3"
 authors:
 - J. Fujioka
 - A. Doi
