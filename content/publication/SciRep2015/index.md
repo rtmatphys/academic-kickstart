@@ -1,5 +1,5 @@
 ---
-title: "Ferroelectric-like metallic state in electron doped BaTiO3"
+title: "Ferroelectric-like metallic state in electron doped BaTiO<sub>3</sub>"
 authors:
 - J. Fujioka
 - A. Doi
@@ -16,7 +16,7 @@ authors:
 - M. Takata
 - Y. Tokura
 date: ""
-doi: "10.1038/srep13207 (2015)"
+doi: "10.1038/srep13207"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-08-20T00:00:00Z"
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/srep13207
+url_pdf: https://www.nature.com/articles/srep13207.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
