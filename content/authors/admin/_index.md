@@ -26,7 +26,6 @@ bio: Condensed matter theory
 interests:
 - Condensed Matter Theory
 - Material Science
-- Quantum Computer
 
 education:
   courses:
@@ -73,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PhD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I am also interested in quantum computation for various problems including condensed matter physics and machine learning.
+I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PhD in condensed matter experiment, I have been working on computational studies of correlated electron systems.
