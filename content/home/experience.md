@@ -42,7 +42,6 @@ date_format = "Jan 2006"
   Research topics:
   * Magnetism in metal
   * Kondo lattice model
-  * Langevin dynamics
   """
 
 [[experience]]
