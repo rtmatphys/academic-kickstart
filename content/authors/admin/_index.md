@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PhD in condensed matter experiment, I have been working on computational studies of correlated electron systems. Now I study application of quantum computation to solving quantum many-body problems.
+I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PhD in condensed matter experiment, I worked on computational studies of correlated electron systems. Now I study application of quantum computation to solving quantum many-body problems.
