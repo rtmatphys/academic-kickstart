@@ -14,14 +14,14 @@ role: Project researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Kawashima group
-  url: "https://kawashima.issp.u-tokyo.ac.jp/"
-- name: Institute for Solid State Physics
-  url: ""
-- name: University of Tokyo
+- name: Fujii group
+  url: "https://quantphys.org/wp/qinfp/"
+- name: Center for Quantum Information and Quantum Biology
+  url: "https://qiqb.otri.osaka-u.ac.jp/en/"
+- name: Osaka University
 
 # Short bio (displayed in user profile at end of posts)
-bio: Condensed matter theory
+bio: Quantum computation, Condensed matter theory
 
 interests:
 - Quantum Computation
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Institute for Solid State Physics, University of Tokyo. After obtaining a PhD in condensed matter experiment, I worked on computational studies of correlated electron systems. Now I study application of quantum computation to solving quantum many-body problems.
+I am a postdoctoral researcher at Center for Quantum Information and Quantum Biology, Osaka University. After obtaining a PhD in condensed matter experiment, I worked on computational studies of correlated electron systems. Now I study application of quantum computation to solving quantum many-body problems, etc.
