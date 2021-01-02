@@ -19,11 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Project researcher"
+  company = "Fujii group, Center for Quantum Information and Quantum Biology, Osaka Univ."
+  company_url = "https://quantphys.org/wp/qinfp/"
+  location = "Osaka"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  Research topics:
+  * Quantum Computation
+  * Quantum many-body problems
+  """
+
+[[experience]]
+  title = "Project researcher"
   company = "Kawashima group, Institute for Solid State Physics, Univ. of Tokyo"
   company_url = "https://kawashima.issp.u-tokyo.ac.jp/"
   location = "Chiba"
   date_start = "2019-04-01"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   Research topics:
   * Strongly-correlated electron systems
