@@ -40,47 +40,41 @@ date_format = "Jan 2006"
   description = """
   Research topics:
   * Strongly-correlated electron systems
-  * Hubbard model
-  * Variational Monte Carlo methods
   """
 
 [[experience]]
   title = "JSPS Research Fellow (PD)"
   company = "Motome group, Department of Applied Physics, Univ. of Tokyo"
-  company_url = "http://www.motome-lab.t.u-tokyo.ac.jp/index-e.html"
+  company_url = "http://www.motome-lab.t.u-tokyo.ac.jp"
   location = "Tokyo"
   date_start = "2017-10-01"
   date_end = "2019-03-31"
   description = """
   Research topics:
-  * Magnetism in metal
-  * Kondo lattice model
+  * Strongly-correlated electron systems
   """
 
 [[experience]]
   title = "PhD student"
   company = "Tokura group, Department of Applied Physics, Univ. of Tokyo"
-  company_url = "http://www.cmr.t.u-tokyo.ac.jp/index_e.shtml"
+  company_url = "http://www.cmr.t.u-tokyo.ac.jp"
   location = "Tokyo"
   date_start = "2015-04-01"
   date_end = "2017-09-30"
   description = """
   Research topics:
   * Topological insulator
-  * Magneto-optics
-  * Photocurrent measurement
   """
 
 [[experience]]
   title = "Master's student"
   company = "Tokura group, Department of Applied Physics, Univ. of Tokyo"
-  company_url = "http://www.cmr.t.u-tokyo.ac.jp/index_e.shtml"
+  company_url = "http://www.cmr.t.u-tokyo.ac.jp"
   location = "Tokyo"
   date_start = "2013-04-01"
   date_end = "2015-03-31"
   description = """
   Research topics:
   * Topological insulator
-  * Thin-film growth
   """
 +++
