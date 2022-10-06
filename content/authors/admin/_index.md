@@ -17,9 +17,9 @@ organizations:
 - name: Fujii group
   url: "https://quantphys.org/wp/qinfp/"
 - name: Center for Quantum Information and Quantum Biology (QIQB)
-  url: "https://qiqb.otri.osaka-u.ac.jp/en/"
+  url: "https://qiqb.osaka-u.ac.jp"
 - name: Osaka University
-  url: "https://www.osaka-u.ac.jp/en"
+  url: "https://www.osaka-u.ac.jp/ja"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Quantum computation, Condensed matter theory
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:okada@issp.u-tokyo.ac.jp".
+  link: '#contact'  # For a direct email link, use "mailto:okada.ken.qiqb@osaka-u.ac.jp".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.jp/citations?user=NUr_6HcAAAAJ&hl=ja
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "okada@qiqb.otri.osaka-u.ac.jp"
+email: "okada.ken.qiqb@osaka-u.ac.jp"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Center for Quantum Information and Quantum Biology (QIQB), Osaka University. After obtaining a PhD in condensed matter experiment, I worked on computational studies of correlated electron systems. Now I study application of quantum computation to solving quantum many-body problems, etc.
+I am a project researcher at Center for Quantum Information and Quantum Biology (QIQB), Osaka University. My current interest lies in development of near-term quantum algorithms for solving quantum many-body problems. I have research experience in condensed matter physics, computational studies of correlated electron systems in addition to experimental studies of topological materials.
