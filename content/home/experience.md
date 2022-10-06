@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Project researcher"
   company = "Kawashima group, Institute for Solid State Physics, Univ. of Tokyo"
-  company_url = "https://kawashima.issp.u-tokyo.ac.jp/"
+  company_url = "https://kawashima.issp.u-tokyo.ac.jp/ja/"
   location = "Chiba"
   date_start = "2019-04-01"
   date_end = "2020-12-31"
