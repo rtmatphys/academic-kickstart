@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:okada.ken.qiqb@osaka-u.ac.jp".
+  link: '#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.jp/citations?user=NUr_6HcAAAAJ&hl=ja
