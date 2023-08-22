@@ -25,9 +25,9 @@ organizations:
 bio: Quantum computation, Condensed matter theory
 
 interests:
-- Quantum Computation
-- Condensed Matter Theory
-- Materials Science
+- Quantum computation
+- Condensed matter theory
+- Materials science
 
 education:
   courses:
@@ -52,9 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.jp/citations?user=NUr_6HcAAAAJ&hl=ja
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Ken_N_Okada
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/Ken_N_Okada
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
