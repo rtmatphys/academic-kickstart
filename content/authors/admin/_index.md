@@ -26,22 +26,25 @@ bio: Quantum computation, Condensed matter theory
 
 interests:
 - Quantum computation
-- Quantum many-body problems
-- Combinatorial optimization
+- Condensed matter physics
+- Quantum optimization
 # - Condensed matter theory
 # - Materials science
 
 education:
   courses:
-  - course: PhD in Condesed Matter Experiment
+  - course: PhD in condensed matter physics
     institution: University of Tokyo
     year: 2017
-  - course: MEng in Condesed Matter Experiment
+  - course: MEng in condensed matter physics
     institution: University of Tokyo
     year: 2015
-  - course: BEng in Condesed Matter Experiment
+  - course: BEng in condensed matter physics
     institution: University of Tokyo
     year: 2013
+# - course: BEng in Condesed Matter Experiment
+#    institution: University of Tokyo
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
