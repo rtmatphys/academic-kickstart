@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Research topics:
   * Quantum computation
   * Quantum many-body problems
+  * Quantum optimization
   """
 
 [[experience]]
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-31"
   description = """
   Research topics:
-  * Strongly-correlated electron systems
+  * Correlated electron systems
   """
 
 [[experience]]
@@ -51,7 +52,7 @@ date_format = "Jan 2006"
   date_end = "2019-03-31"
   description = """
   Research topics:
-  * Strongly-correlated electron systems
+  * Correlated electron systems
   """
 
 [[experience]]
