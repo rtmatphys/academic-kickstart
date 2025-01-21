@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Project researcher
+role: Project assistant professor
 
 # Organizations/Affiliations
 organizations:
@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-I am a project researcher at Center for Quantum Information and Quantum Biology (QIQB), Osaka University. My current interest lies in development of near-term quantum algorithms for quantum many-body problems as well as combinatorial optimization. I have research experience in condensed matter physics, such as computational studies of correlated electron systems and experimental studies of topological materials.
+I am a project assistant professor at Center for Quantum Information and Quantum Biology (QIQB), Osaka University. My current interest lies in development of near-term quantum algorithms for quantum many-body problems as well as combinatorial optimization. I have research experience in condensed matter physics, such as computational studies of correlated electron systems and experimental studies of topological materials.
